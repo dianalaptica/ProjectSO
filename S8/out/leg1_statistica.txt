@@ -1,0 +1,7 @@
+nume legatura: leg1
+dimensiune: 46
+dimensiune fisier: 13
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
+
