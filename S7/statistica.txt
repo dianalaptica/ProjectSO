@@ -1,0 +1,53 @@
+nume fisier: 3.bmp
+inaltime: 256
+lungime: 256
+dimensiune: 196666
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: 06.12.2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
+
+nume director: hey
+identificatorul utilizatorului: 1000
+drepturi de acces user: RWX
+drepturi de acces grup: RWX
+drepturi de acces altii: R-X
+
+nume fisier: Untitled
+dimensiune: 12
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: 07.12.2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
+
+nume fisier: text.txt
+dimensiune: 13
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: 07.12.2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
+
+nume legatura: leg1
+dimensiune: 46
+dimensiune fisier: 13
+drepturi de acces user: RW-
+drepturi de acces grup: RW-
+drepturi de acces altii: R--
+
+nume fisier: 1.bmp
+inaltime: 1280
+lungime: 1920
+dimensiune: 7372938
+identificatorul utilizatorului: 1000
+timpul ultimei modificari: 12.11.2023
+contorul de legaturi: 1
+drepturi de acces user: RW-
+drepturi de acces grup: R--
+drepturi de acces altii: ---
+
